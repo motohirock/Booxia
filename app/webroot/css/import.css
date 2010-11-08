@@ -1,0 +1,16 @@
+@charset "utf-8";
+/********************
+ * import.css
+ ********************/
+ 
+/* リセット、タグの初期設定 */
+@import "base.css";
+
+/* 配置、枠組み、配置に関するクラス */
+@import "layout.css";
+
+/* 色やスタイル */
+@import "style.css";
+
+/* 一括変更(phpファイル)
+@import "change.php"; */
